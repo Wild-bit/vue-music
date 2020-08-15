@@ -8,13 +8,15 @@ html/css/javascript
 Es6
 vue
 ```
+
 实现功能:
+```
 搜索歌曲功能
 歌曲列表
 热门评论
 上一首下一首歌曲切换
 歌曲mv的播放
-
+```
 ###启动项目先启动vue-serve
 ```
   npm install -g nodemon
