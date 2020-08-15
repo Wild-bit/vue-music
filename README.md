@@ -15,15 +15,17 @@
 歌曲mv的播放
 
 ###启动项目先启动vue-serve
-
+```
   npm install -g nodemon
   cd vue-server //切换到项目根目录下
   npm install //下载对应的依赖包
   npm start //启动项目
+  ```
  ###在cd musicPlay文件夹
+ ```
  npm install 
  npm run serve
-
+```
 
 接口文档:
 ### 所有歌曲列表接口
