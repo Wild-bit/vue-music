@@ -1,0 +1,6 @@
+musicplay/node_modules
+musicplay/.DS_Store
+musicplay/dist
+vue-server/node_modules
+vue-server/.DS_Store
+vue-server/dist
